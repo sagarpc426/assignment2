@@ -1,2 +1,2 @@
-# assignment2
-registration website 
+# practical02
+event website 
